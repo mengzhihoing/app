@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/mengzhihoing/app/master/ProjectXmall.ipa</string>
+					<string>http://192.168.88.44/app/ProjectXmall.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,9 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>欢迎使用此</string>
+				<string>欢迎使用innersect</string>
 				<key>title</key>
-				<string>美图资讯</string>
+				<string>潮人专属APP</string>
 			</dict>
 		</dict>
 	</array>
